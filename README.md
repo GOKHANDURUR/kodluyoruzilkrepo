@@ -8,7 +8,7 @@ github
 
 Öncelikle projeyi clonelayın.
 
-[] (git clone https://github.com/GOKHANDURUR/kodluyoruzilkrepo.git)
+`git clone https://github.com/GOKHANDURUR/kodluyoruzilkrepo.git`
 
 ## Usage
 
@@ -16,8 +16,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-[ cd kodluyoruzilkrepo
-code .]
+`cd kodluyoruzilkrepo
+code .`
 
 ## Contributing
 
